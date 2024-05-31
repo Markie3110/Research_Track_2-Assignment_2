@@ -31,7 +31,7 @@ To download the repsitory's contents to your local system you can do one of the 
 1. Using git from your local system<br>
 To download the repo using git simply go to your terminal and go to the src directory within your ROS workspace. Type the following command to clone the repository to your folder:
 ```bash
-$ git clone ""
+$ git clone "https://github.com/Markie3110/Research_Track_2-Assignment_2.git"
 ```
 
 2. Download the .zip from Github<br>
