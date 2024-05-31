@@ -1,4 +1,4 @@
-Research Track 1 - Assignment 2 Solution
+Research Track 2 - Assignment 2 Solution
 ================================
 The following repository contains the solution to the second assignment for the Research Track 2 Course, found in the Robotics Masters Programme at the University of Genoa, Italy. 
 As part of the assignment, students were required to create a user interface using Python on Jupyter Notebook, that interacts with a Gazebo based robot. The implemented user interface
@@ -7,11 +7,11 @@ should be capable of allowing a target to be set and cancelled. Besides the UI, 
 
 Table of Contents
 ----------------------
-1. [Prerequisites]()
-2. [Project Contents]()
-3. [How to Install]()
-4. [How to run]()
-5. [Known Errors]()
+1. [Prerequisites](https://github.com/Markie3110/Research_Track_2-Assignment_2/tree/main#prerequisites)
+2. [Project Contents](https://github.com/Markie3110/Research_Track_2-Assignment_2/tree/main#project-contents)
+3. [How to Install](https://github.com/Markie3110/Research_Track_2-Assignment_2/tree/main#project-contents)
+4. [How to run](https://github.com/Markie3110/Research_Track_2-Assignment_2/tree/main#how-to-run)
+5. [Known Errors](https://github.com/Markie3110/Research_Track_2-Assignment_2/tree/main#known-errors)
 <br>
 
 Prerequisites
